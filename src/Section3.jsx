@@ -3,12 +3,75 @@ import React from "react";
 function Section3() {
 	return(
 		<>
-		<section className="bg-sky-200 ">
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique eaque, harum, sint impedit et, dolorum quis debitis incidunt iste amet sequi quae iusto soluta. Alias itaque repudiandae quis officia nisi
-			Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita atque odit accusantium deserunt vero in deleniti porro natus quidem, nemo facere obcaecati? In repellat quis fugit atque ipsum quia iusto modi eius quaerat quam blanditiis aspernatur enim ipsam cum incidunt alias nulla illum, quibusdam iure soluta magni dolor. Fugiat minus voluptatum porro voluptas reprehenderit beatae iure eius nemo pariatur maiores ducimus non aliquam, quibusdam cum praesentium deleniti. Nostrum eveniet sit ducimus error, molestias modi voluptatum vel? Alias sequi non, eum voluptate in minus. Aspernatur cum ea, magni, in distinctio assumenda nesciunt eligendi vitae tenetur maiores quis sed! Eveniet fugiat dolores eum laborum, culpa hic! Similique quaerat culpa nemo quis, obcaecati corporis voluptas voluptatibus tempora quo aut eligendi sint consequatur necessitatibus sit in distinctio! Ipsam, saepe cumque. Nesciunt et enim corporis velit nihil, optio culpa maxime omnis numquam ullam aliquam eveniet sit dolor delectus deleniti cupiditate cumque eos exercitationem quos veniam aliquid? Optio facilis provident minima! Quasi quas est quam placeat sapiente minus veniam corporis, assumenda ullam blanditiis nihil possimus architecto quos neque, non eos magnam cumque consectetur aperiam totam explicabo nobis ipsa? Culpa, quibusdam eius. Modi, nihil laudantium eos fugiat quos ratione magnam pariatur voluptatibus rem sunt aspernatur ad odit.
-		</section>
-
+		<section className="bg-gray-200 relative flex flex-wrap">
+				<div className="flex flex-col w-120 justify-center items-start p-10">
+				<blockquote className="text-center text-xl text-gray-600 p-5 rounded-4xl mt-20  bg-white shadow-md shadow-black"  >
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet eligendi illum necessitatibus ad officia provident labore ducimus suscipit aut molestiae quo quisquam expedita, soluta quis magnam? Alias assumenda dicta similique?
+				</blockquote>
+					<div className="w-50 flex  justify-between mt-5">
+						<img className="rounded-full bg-auto w-15 h-15" src="https://images.unsplash.com/photo-1603366445787-09714680cbf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=944&q=80" alt="" />
+						<div className="flex flex-col gap-2 font-medium">
+						<p>Gladis Lennon</p>
+						<p>Head of SEO</p>
+						</div>				
+						</div>
+					
+				</div>
+				<div className="flex flex-col w-120 justify-center items-start p-10">
+				<blockquote className="text-center text-xl text-gray-600 p-5 rounded-4xl mt-20  bg-white shadow-md shadow-black"  >
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet eligendi illum neceae quo quisquam expedita, soluta quis magnam? Alias assumenda dicta similique?
+				</blockquote>
+					<div className="w-50 flex  justify-between mt-5">
+						<img className="rounded-full bg-auto w-15 h-15" src="https://images.unsplash.com/photo-1603366445787-09714680cbf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=944&q=80" alt="" />
+						<div className="flex flex-col gap-2 font-medium">
+						<p>Gladis Lennon</p>
+						<p>Head of SEO</p>
+						</div>				
+						</div>
+					
+				</div>
+				<div className="flex flex-col w-120 justify-center items-start p-10">
+				<blockquote className="text-center text-xl text-gray-600 p-5 rounded-4xl mt-20  bg-white shadow-md shadow-black"  >
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet eligendi illum necessitatibus ad officia provident labore ducimus suscipit aut mo dicta similique?
+				</blockquote>
+					<div className="w-50 flex  justify-between mt-5">
+						<img className="rounded-full bg-auto w-15 h-15" src="https://images.unsplash.com/photo-1603366445787-09714680cbf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=944&q=80" alt="" />
+						<div className="flex flex-col gap-2 font-medium">
+						<p>Gladis Lennon</p>
+						<p>Head of SEO</p>
+						</div>				
+						</div>
+					
+				</div>
+				<div className="flex flex-col w-120 justify-center items-start p-10">
+				<blockquote className="text-center text-xl text-gray-600 p-5 rounded-4xl mt-20  bg-white shadow-md shadow-black"  >
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet eliolestiae quo quisquam expedita, soluta quis magnam? Alias assumenda dicta similique?
+				</blockquote>
+					<div className="w-50 flex  justify-between mt-5">
+						<img className="rounded-full bg-auto w-15 h-15" src="https://images.unsplash.com/photo-1603366445787-09714680cbf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=944&q=80" alt="" />
+						<div className="flex flex-col gap-2 font-medium">
+						<p>Gladis Lennon</p>
+						<p>Head of SEO</p>
+						</div>				
+						</div>
+					
+				</div>
+				<div className="flex flex-col w-120 justify-center items-start p-10">
+				<blockquote className="text-center text-xl text-gray-600 p-5 rounded-4xl mt-20  bg-white shadow-md shadow-black"  >
+				Lorem ipsquam expedita, soluta quis magnam? Alias assumenda dicta similique?
+				</blockquote>
+					<div className="w-50 flex  justify-between mt-5">
+						<img className="rounded-full bg-auto w-15 h-15" src="https://images.unsplash.com/photo-1603366445787-09714680cbf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=944&q=80" alt="" />
+						<div className="flex flex-col gap-2 font-medium">
+						<p>Gladis Lennon</p>
+						<p>Head of SEO</p>
+						</div>				
+						</div>
+					
+				</div>
+				</section>
 		</>
 	)
-};
+}
+
 export default Section3;
